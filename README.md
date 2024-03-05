@@ -84,7 +84,7 @@ The API will be accessible at `http://127.0.0.1:5000/`.
 
 ## Note
 
-- Ensure you have a SQLite database file named `book_review_platform.db` in the project directory.
+- Ensure you have a SQLite database file named `book_review_platform.db` in the project directory or run the code and it will generate a .db.
 - The API is set to run in debug mode (`debug=True`). Change this for a production environment.
 - Use appropriate caution and authentication mechanisms before deploying in a production environment.
 
